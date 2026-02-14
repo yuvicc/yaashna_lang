@@ -4,4 +4,4 @@ project(c_comp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(c_comp src/main.cpp)
+add_executable(ys src/main.cpp)
